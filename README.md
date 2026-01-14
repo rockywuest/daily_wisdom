@@ -175,6 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Quote sources include works from various philosophers, entrepreneurs, and thought leaders
 - Built with SwiftUI and SwiftData
 - Inspired by the practice of starting each day with intentional reflection
+- CI/CD pipeline, unit tests, and code quality infrastructure built with [Claude](https://claude.ai) by Anthropic
 
 ## Support
 
