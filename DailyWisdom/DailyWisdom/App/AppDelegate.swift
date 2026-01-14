@@ -4,10 +4,11 @@ import SwiftData
 
 final class AppDelegate: NSObject, NSApplicationDelegate {
     private var screenLockMonitor: ScreenLockMonitor?
-    private weak var viewModel: QuoteViewModel?
+    private(set) weak var viewModel: QuoteViewModel?
 
     func setViewModel(_ viewModel: QuoteViewModel) {
         self.viewModel = viewModel
+        print("[AppDelegate] ViewModel connected")
     }
 
     func applicationDidFinishLaunching(_ notification: Notification) {

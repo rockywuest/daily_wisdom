@@ -4,21 +4,44 @@ import SwiftData
 @main
 struct DailyWisdomApp: App {
     @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
-    @State private var viewModel = QuoteViewModel()
+    @State private var viewModel: QuoteViewModel
 
-    var sharedModelContainer: ModelContainer = {
+    let sharedModelContainer: ModelContainer
+
+    init() {
+        // Create the model container
         let schema = Schema([Quote.self])
         let modelConfiguration = ModelConfiguration(
             schema: schema,
             isStoredInMemoryOnly: false
         )
 
+        let container: ModelContainer
         do {
-            return try ModelContainer(for: schema, configurations: [modelConfiguration])
+            container = try ModelContainer(for: schema, configurations: [modelConfiguration])
         } catch {
             fatalError("Could not create ModelContainer: \(error)")
         }
-    }()
+
+        self.sharedModelContainer = container
+
+        // Create and configure the view model
+        let vm = QuoteViewModel()
+        vm.configure(with: container.mainContext)
+        self._viewModel = State(initialValue: vm)
+
+        // Connect ViewModel to AppDelegate immediately
+        // Note: appDelegate is available here because @NSApplicationDelegateAdaptor
+        // initializes the AppDelegate when the property wrapper is created
+        appDelegate.setViewModel(vm)
+
+        // Load initial data asynchronously
+        Task { @MainActor in
+            await vm.loadInitialData()
+        }
+
+        print("[DailyWisdomApp] Initialized with ModelContainer")
+    }
 
     var body: some Scene {
         MenuBarExtra {
@@ -26,13 +49,10 @@ struct DailyWisdomApp: App {
                 .modelContainer(sharedModelContainer)
                 .environment(viewModel)
                 .onAppear {
-                    // Connect the view model to the app delegate
-                    appDelegate.setViewModel(viewModel)
-                    // Configure with model context
-                    viewModel.configure(with: sharedModelContainer.mainContext)
-                    // Load initial data
-                    Task {
-                        await viewModel.loadInitialData()
+                    // Fallback connection in case init() timing varies
+                    if appDelegate.viewModel == nil {
+                        appDelegate.setViewModel(viewModel)
+                        print("[DailyWisdomApp] Connected ViewModel to AppDelegate via onAppear (fallback)")
                     }
                 }
         } label: {
