@@ -1,0 +1,63 @@
+# Fastfile for DailyWisdom
+# Documentation: https://docs.fastlane.tools
+
+default_platform(:mac)
+
+platform :mac do
+  desc "Build the app for release"
+  lane :build do
+    build_mac_app(
+      scheme: "DailyWisdom",
+      configuration: "Release",
+      export_method: "app-store",
+      output_directory: "./build",
+      output_name: "DailyWisdom.app"
+    )
+  end
+
+  desc "Submit a new build to App Store Connect"
+  lane :release do
+    # Increment build number
+    increment_build_number(
+      xcodeproj: "DailyWisdom.xcodeproj"
+    )
+
+    # Build
+    build_mac_app(
+      scheme: "DailyWisdom",
+      configuration: "Release",
+      export_method: "app-store"
+    )
+
+    # Upload to App Store Connect
+    upload_to_app_store(
+      skip_screenshots: true,
+      skip_metadata: false,
+      force: true,
+      precheck_include_in_app_purchases: false
+    )
+  end
+
+  desc "Take screenshots for App Store"
+  lane :screenshots do
+    # Note: Requires UI tests configured
+    capture_mac_screenshots(scheme: "DailyWisdomUITests")
+  end
+
+  desc "Upload only metadata to App Store Connect"
+  lane :metadata do
+    upload_to_app_store(
+      skip_binary_upload: true,
+      skip_screenshots: true,
+      force: true
+    )
+  end
+
+  desc "Run tests"
+  lane :test do
+    run_tests(
+      scheme: "DailyWisdom",
+      device: "Mac"
+    )
+  end
+end

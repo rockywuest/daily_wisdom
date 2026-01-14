@@ -1,0 +1,10 @@
+Initial Release
+
+• 370+ carefully curated quotes across 8 categories
+• Automatic quote display on Mac unlock
+• Beautiful floating panel with vibrancy blur
+• Save your favorite quotes
+• Filter quotes by category
+• Customizable display duration (5-30 seconds)
+• Launch at login option
+• Fully offline—no account required

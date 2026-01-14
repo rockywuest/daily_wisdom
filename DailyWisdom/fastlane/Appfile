@@ -1,0 +1,14 @@
+# Appfile for DailyWisdom
+# Documentation: https://docs.fastlane.tools/advanced/Appfile
+
+# Your Apple Developer account email
+# apple_id("your@email.com")
+
+# Your app's bundle identifier
+app_identifier("com.rockywuest.DailyWisdom")
+
+# Your Apple Developer Team ID (find at https://developer.apple.com/account/#/membership)
+# team_id("XXXXXXXXXX")
+
+# App Store Connect Team ID (if different from Developer Team)
+# itc_team_id("XXXXXXXXXX")
