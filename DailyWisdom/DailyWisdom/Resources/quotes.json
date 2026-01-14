@@ -1,352 +1,2592 @@
 [
   {
     "id": "1",
-    "text": "Speed is the form of ecstasy the technical revolution has bestowed on man.",
-    "author": "Milan Kundera",
-    "category": "focus",
-    "note": "Reminder to slow down, resist urgency addiction"
-  },
-  {
-    "id": "2",
-    "text": "The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control.",
-    "author": "Epictetus",
-    "category": "stoicism",
-    "note": null
-  },
-  {
-    "id": "3",
-    "text": "If you don't know where you're going, any road will get you there.",
-    "author": "Lewis Carroll",
-    "category": "strategy",
-    "note": null
-  },
-  {
-    "id": "4",
-    "text": "Culture eats strategy for breakfast.",
-    "author": "Peter Drucker",
-    "category": "leadership",
-    "note": "Relevant for AI transformation change management"
-  },
-  {
-    "id": "5",
-    "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
-    "author": "Chinese Proverb",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "6",
     "text": "Show me the incentive and I will show you the outcome.",
     "author": "Charlie Munger",
     "category": "mental-model",
     "note": null
   },
   {
-    "id": "7",
-    "text": "What gets measured gets managed.",
-    "author": "Peter Drucker",
-    "category": "business",
-    "note": null
-  },
-  {
-    "id": "8",
-    "text": "The reasonable man adapts himself to the world. The unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.",
-    "author": "George Bernard Shaw",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "9",
-    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-    "author": "Aristotle",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "10",
-    "text": "The ability to simplify means to eliminate the unnecessary so that the necessary may speak.",
-    "author": "Hans Hofmann",
-    "category": "focus",
-    "note": null
-  },
-  {
-    "id": "11",
+    "id": "2",
     "text": "In the beginner's mind there are many possibilities, but in the expert's mind there are few.",
     "author": "Shunryu Suzuki",
     "category": "mental-model",
     "note": null
   },
   {
-    "id": "12",
-    "text": "The greatest enemy of a good plan is the dream of a perfect plan.",
-    "author": "Carl von Clausewitz",
-    "category": "strategy",
-    "note": null
-  },
-  {
-    "id": "13",
-    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-    "author": "Benjamin Franklin",
-    "category": "leadership",
-    "note": null
-  },
-  {
-    "id": "14",
-    "text": "It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change.",
-    "author": "Charles Darwin",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "15",
+    "id": "3",
     "text": "The most dangerous phrase in the language is: We've always done it this way.",
     "author": "Grace Hopper",
     "category": "mental-model",
     "note": "Perfect for AI transformation resistance"
   },
   {
-    "id": "16",
-    "text": "If I had eight hours to chop down a tree, I'd spend six hours sharpening my axe.",
-    "author": "Abraham Lincoln",
-    "category": "focus",
-    "note": null
-  },
-  {
-    "id": "17",
-    "text": "The best way to predict the future is to create it.",
-    "author": "Peter Drucker",
-    "category": "leadership",
-    "note": null
-  },
-  {
-    "id": "18",
-    "text": "A ship in harbor is safe, but that is not what ships are built for.",
-    "author": "John A. Shedd",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "19",
+    "id": "4",
     "text": "Simplicity is the ultimate sophistication.",
     "author": "Leonardo da Vinci",
     "category": "mental-model",
     "note": null
   },
   {
-    "id": "20",
-    "text": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "21",
-    "text": "Don't let perfect be the enemy of good.",
-    "author": "Voltaire",
-    "category": "focus",
-    "note": null
-  },
-  {
-    "id": "22",
-    "text": "Every action you take is a vote for the type of person you wish to become.",
-    "author": "James Clear",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "23",
-    "text": "The more you sweat in training, the less you bleed in combat.",
-    "author": "Richard Marcinko",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "24",
-    "text": "When you're finished changing, you're finished.",
-    "author": "Benjamin Franklin",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "25",
-    "text": "Clarity about what matters provides clarity about what does not.",
-    "author": "Cal Newport",
-    "category": "focus",
-    "note": null
-  },
-  {
-    "id": "26",
-    "text": "The main thing is to keep the main thing the main thing.",
-    "author": "Stephen Covey",
-    "category": "focus",
-    "note": null
-  },
-  {
-    "id": "27",
-    "text": "How we spend our days is, of course, how we spend our lives.",
-    "author": "Annie Dillard",
-    "category": "focus",
-    "note": null
-  },
-  {
-    "id": "28",
+    "id": "5",
     "text": "It's not what you look at that matters, it's what you see.",
     "author": "Henry David Thoreau",
     "category": "mental-model",
     "note": null
   },
   {
-    "id": "29",
+    "id": "6",
     "text": "A problem well-stated is a problem half-solved.",
     "author": "Charles Kettering",
     "category": "mental-model",
     "note": null
   },
   {
-    "id": "30",
-    "text": "The person who says it cannot be done should not interrupt the person who is doing it.",
-    "author": "Chinese Proverb",
-    "category": "growth",
-    "note": null
-  },
-  {
-    "id": "31",
-    "text": "If you want to go fast, go alone. If you want to go far, go together.",
-    "author": "African Proverb",
-    "category": "leadership",
-    "note": null
-  },
-  {
-    "id": "32",
+    "id": "7",
     "text": "The quality of your decisions determines the quality of your life.",
     "author": "Tony Robbins",
     "category": "mental-model",
     "note": null
   },
   {
-    "id": "33",
-    "text": "Between stimulus and response there is a space. In that space is our power to choose our response.",
-    "author": "Viktor Frankl",
-    "category": "stoicism",
-    "note": null
-  },
-  {
-    "id": "34",
-    "text": "No one can make you feel inferior without your consent.",
-    "author": "Eleanor Roosevelt",
-    "category": "stoicism",
-    "note": null
-  },
-  {
-    "id": "35",
-    "text": "The only true wisdom is in knowing you know nothing.",
-    "author": "Socrates",
-    "category": "wisdom",
-    "note": null
-  },
-  {
-    "id": "36",
-    "text": "Management is doing things right. Leadership is doing the right things.",
-    "author": "Peter Drucker",
-    "category": "leadership",
-    "note": null
-  },
-  {
-    "id": "37",
-    "text": "Your margin is someone else's opportunity.",
-    "author": "Jeff Bezos",
-    "category": "business",
-    "note": null
-  },
-  {
-    "id": "38",
-    "text": "The way to get started is to quit talking and begin doing.",
-    "author": "Walt Disney",
-    "category": "focus",
-    "note": null
-  },
-  {
-    "id": "39",
-    "text": "Time is the most valuable thing a man can spend.",
-    "author": "Theophrastus",
-    "category": "focus",
-    "note": null
-  },
-  {
-    "id": "40",
-    "text": "The bottleneck is always at the top of the bottle.",
-    "author": "Peter Drucker",
-    "category": "leadership",
-    "note": null
-  },
-  {
-    "id": "41",
+    "id": "8",
     "text": "Think like a man of action, act like a man of thought.",
     "author": "Henri Bergson",
     "category": "mental-model",
     "note": null
   },
   {
-    "id": "42",
+    "id": "9",
     "text": "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.",
     "author": "F. Scott Fitzgerald",
     "category": "mental-model",
     "note": null
   },
   {
-    "id": "43",
+    "id": "10",
     "text": "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.",
     "author": "Albert Einstein",
     "category": "mental-model",
     "note": null
   },
   {
-    "id": "44",
-    "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
-    "author": "James Clear",
-    "category": "growth",
+    "id": "11",
+    "text": "Price is what you pay. Value is what you get.",
+    "author": "Warren Buffett",
+    "category": "mental-model",
     "note": null
   },
   {
-    "id": "45",
-    "text": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
-    "author": "Abraham Lincoln",
-    "category": "focus",
+    "id": "12",
+    "text": "The map is not the territory.",
+    "author": "Alfred Korzybski",
+    "category": "mental-model",
     "note": null
   },
   {
-    "id": "46",
-    "text": "The question isn't who is going to let me; it's who is going to stop me.",
-    "author": "Ayn Rand",
-    "category": "growth",
+    "id": "13",
+    "text": "To a man with a hammer, everything looks like a nail.",
+    "author": "Charlie Munger",
+    "category": "mental-model",
     "note": null
   },
   {
-    "id": "47",
-    "text": "Vision without execution is hallucination.",
+    "id": "14",
+    "text": "Invert, always invert.",
+    "author": "Carl Jacobi",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "15",
+    "text": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+    "author": "Richard Feynman",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "16",
+    "text": "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.",
+    "author": "Charlie Munger",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "17",
+    "text": "The best thinking has been done in solitude. The worst has been done in turmoil.",
     "author": "Thomas Edison",
-    "category": "strategy",
+    "category": "mental-model",
     "note": null
   },
   {
-    "id": "48",
-    "text": "Take care of the minutes and the hours will take care of themselves.",
-    "author": "Lord Chesterfield",
-    "category": "focus",
+    "id": "18",
+    "text": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "mental-model",
     "note": null
   },
   {
-    "id": "49",
+    "id": "19",
+    "text": "The ability to destroy your ideas rapidly instead of slowly when the occasion is right is one of the most valuable things.",
+    "author": "Charlie Munger",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "20",
+    "text": "If you can't explain it simply, you don't understand it well enough.",
+    "author": "Albert Einstein",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "21",
+    "text": "The mind that opens to a new idea never returns to its original size.",
+    "author": "Albert Einstein",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "22",
+    "text": "Correlation is not causation.",
+    "author": "Statistical Wisdom",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "23",
+    "text": "The difference between successful people and really successful people is that really successful people say no to almost everything.",
+    "author": "Warren Buffett",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "24",
+    "text": "Risk comes from not knowing what you're doing.",
+    "author": "Warren Buffett",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "25",
+    "text": "The chains of habit are too light to be felt until they are too heavy to be broken.",
+    "author": "Warren Buffett",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "26",
+    "text": "Never attribute to malice that which is adequately explained by stupidity.",
+    "author": "Hanlon's Razor",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "27",
+    "text": "The best time to repair the roof is when the sun is shining.",
+    "author": "John F. Kennedy",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "28",
+    "text": "What the wise do in the beginning, fools do in the end.",
+    "author": "Warren Buffett",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "29",
+    "text": "The reasonable man adapts himself to the world. The unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.",
+    "author": "George Bernard Shaw",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "30",
+    "text": "Knowing what you don't know is more useful than being brilliant.",
+    "author": "Charlie Munger",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "31",
+    "text": "An ounce of prevention is worth a pound of cure.",
+    "author": "Benjamin Franklin",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "32",
+    "text": "The world is full of obvious things which nobody by any chance ever observes.",
+    "author": "Arthur Conan Doyle",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "33",
+    "text": "All models are wrong, but some are useful.",
+    "author": "George Box",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "34",
+    "text": "The more you learn, the more you realize how much you don't know.",
+    "author": "Aristotle",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "35",
+    "text": "In theory, theory and practice are the same. In practice, they are not.",
+    "author": "Albert Einstein",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "36",
+    "text": "Everything should be made as simple as possible, but not simpler.",
+    "author": "Albert Einstein",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "37",
+    "text": "The cure for boredom is curiosity. There is no cure for curiosity.",
+    "author": "Dorothy Parker",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "38",
+    "text": "When a measure becomes a target, it ceases to be a good measure.",
+    "author": "Goodhart's Law",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "39",
+    "text": "The eye sees only what the mind is prepared to comprehend.",
+    "author": "Henri Bergson",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "40",
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "41",
+    "text": "The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control.",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "42",
     "text": "The impediment to action advances action. What stands in the way becomes the way.",
     "author": "Marcus Aurelius",
     "category": "stoicism",
     "note": null
   },
   {
+    "id": "43",
+    "text": "Between stimulus and response there is a space. In that space is our power to choose our response.",
+    "author": "Viktor Frankl",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "44",
+    "text": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "45",
+    "text": "It is not things that disturb us, but our judgments about things.",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "46",
+    "text": "You have power over your mind — not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "47",
+    "text": "We suffer more in imagination than in reality.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "48",
+    "text": "Waste no more time arguing about what a good man should be. Be one.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "49",
+    "text": "It is not that we have a short time to live, but that we waste a lot of it.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
     "id": "50",
-    "text": "Price is what you pay. Value is what you get.",
+    "text": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "51",
+    "text": "He who fears death will never do anything worthy of a man who is alive.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "52",
+    "text": "Difficulties strengthen the mind, as labor does the body.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "53",
+    "text": "The best revenge is not to be like your enemy.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "54",
+    "text": "Man is not worried by real problems so much as by his imagined anxieties about real problems.",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "55",
+    "text": "Begin at once to live, and count each separate day as a separate life.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "56",
+    "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "57",
+    "text": "If it is not right, do not do it; if it is not true, do not say it.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "58",
+    "text": "Luck is what happens when preparation meets opportunity.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "59",
+    "text": "First say to yourself what you would be; and then do what you have to do.",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "60",
+    "text": "No man is free who is not master of himself.",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "61",
+    "text": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "62",
+    "text": "The soul becomes dyed with the color of its thoughts.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "63",
+    "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "64",
+    "text": "How long are you going to wait before you demand the best for yourself?",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "65",
+    "text": "When you arise in the morning, think of what a precious privilege it is to be alive.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "66",
+    "text": "To be calm is the highest achievement of the self.",
+    "author": "Zen Proverb",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "67",
+    "text": "A gem cannot be polished without friction, nor a man perfected without trials.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "68",
+    "text": "Don't explain your philosophy. Embody it.",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "69",
+    "text": "Concentrate every minute on doing what's in front of you with precise and genuine seriousness.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "70",
+    "text": "The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "71",
+    "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "72",
+    "text": "What we do now echoes in eternity.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "73",
+    "text": "The more we value things outside our control, the less control we have.",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "74",
+    "text": "True happiness is to enjoy the present, without anxious dependence upon the future.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "75",
+    "text": "Hang on to your youthful enthusiasms — you'll be able to use them better when you're older.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "76",
+    "text": "The art of living is more like wrestling than dancing.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "77",
+    "text": "It is not the man who has too little that is poor, but the one who hankers after more.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "78",
+    "text": "Sometimes even to live is an act of courage.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "79",
+    "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "80",
+    "text": "Wealth consists not in having great possessions, but in having few wants.",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "81",
+    "text": "Culture eats strategy for breakfast.",
+    "author": "Peter Drucker",
+    "category": "leadership",
+    "note": "Relevant for AI transformation change management"
+  },
+  {
+    "id": "82",
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "83",
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "84",
+    "text": "If you want to go fast, go alone. If you want to go far, go together.",
+    "author": "African Proverb",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "85",
+    "text": "Management is doing things right. Leadership is doing the right things.",
+    "author": "Peter Drucker",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "86",
+    "text": "The bottleneck is always at the top of the bottle.",
+    "author": "Peter Drucker",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "87",
+    "text": "A leader is best when people barely know he exists. When his work is done, they will say: we did it ourselves.",
+    "author": "Lao Tzu",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "88",
+    "text": "The task of leadership is not to put greatness into people, but to elicit it, for the greatness is there already.",
+    "author": "John Buchan",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "89",
+    "text": "Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others.",
+    "author": "Jack Welch",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "90",
+    "text": "The growth and development of people is the highest calling of leadership.",
+    "author": "Harvey Firestone",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "91",
+    "text": "Leadership is the capacity to translate vision into reality.",
+    "author": "Warren Bennis",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "92",
+    "text": "The quality of a leader is reflected in the standards they set for themselves.",
+    "author": "Ray Kroc",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "93",
+    "text": "Great leaders are almost always great simplifiers.",
+    "author": "Colin Powell",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "94",
+    "text": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+    "author": "Simon Sinek",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "95",
+    "text": "The greatest leader is not necessarily one who does the greatest things, but one who gets people to do the greatest things.",
+    "author": "Ronald Reagan",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "96",
+    "text": "You manage things; you lead people.",
+    "author": "Grace Hopper",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "97",
+    "text": "A genuine leader is not a searcher for consensus but a molder of consensus.",
+    "author": "Martin Luther King Jr.",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "98",
+    "text": "The key to successful leadership is influence, not authority.",
+    "author": "Ken Blanchard",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "99",
+    "text": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "100",
+    "text": "People buy into the leader before they buy into the vision.",
+    "author": "John Maxwell",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "101",
+    "text": "Outstanding leaders go out of their way to boost the self-esteem of their personnel.",
+    "author": "Sam Walton",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "102",
+    "text": "It is better to lead from behind and to put others in front.",
+    "author": "Nelson Mandela",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "103",
+    "text": "Effective leadership is putting first things first. Effective management is discipline, carrying it out.",
+    "author": "Stephen Covey",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "104",
+    "text": "The best executive is one who has sense enough to pick good people to do what they want done.",
+    "author": "Theodore Roosevelt",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "105",
+    "text": "Don't tell people how to do things. Tell them what to do and let them surprise you with their results.",
+    "author": "George Patton",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "106",
+    "text": "Leadership is not about titles, positions, or flowcharts. It is about one life influencing another.",
+    "author": "John Maxwell",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "107",
+    "text": "A leader takes people where they want to go. A great leader takes people where they don't necessarily want to go, but ought to be.",
+    "author": "Rosalynn Carter",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "108",
+    "text": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+    "author": "Abraham Lincoln",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "109",
+    "text": "Average leaders raise the bar on themselves; good leaders raise the bar for others; great leaders inspire others to raise their own bar.",
+    "author": "Orrin Woodward",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "110",
+    "text": "He who cannot be a good follower cannot be a good leader.",
+    "author": "Aristotle",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "111",
+    "text": "Speed is the form of ecstasy the technical revolution has bestowed on man.",
+    "author": "Milan Kundera",
+    "category": "focus",
+    "note": "Reminder to slow down, resist urgency addiction"
+  },
+  {
+    "id": "112",
+    "text": "The ability to simplify means to eliminate the unnecessary so that the necessary may speak.",
+    "author": "Hans Hofmann",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "113",
+    "text": "If I had eight hours to chop down a tree, I'd spend six hours sharpening my axe.",
+    "author": "Abraham Lincoln",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "114",
+    "text": "Don't let perfect be the enemy of good.",
+    "author": "Voltaire",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "115",
+    "text": "Clarity about what matters provides clarity about what does not.",
+    "author": "Cal Newport",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "116",
+    "text": "The main thing is to keep the main thing the main thing.",
+    "author": "Stephen Covey",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "117",
+    "text": "How we spend our days is, of course, how we spend our lives.",
+    "author": "Annie Dillard",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "118",
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "119",
+    "text": "Time is the most valuable thing a man can spend.",
+    "author": "Theophrastus",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "120",
+    "text": "Take care of the minutes and the hours will take care of themselves.",
+    "author": "Lord Chesterfield",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "121",
+    "text": "A wealth of information creates a poverty of attention.",
+    "author": "Herbert Simon",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "122",
+    "text": "The successful warrior is the average man, with laser-like focus.",
+    "author": "Bruce Lee",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "123",
+    "text": "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus.",
+    "author": "Alexander Graham Bell",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "124",
+    "text": "One reason so few of us achieve what we truly want is that we never direct our focus.",
+    "author": "Tony Robbins",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "125",
+    "text": "The shorter way to do many things is to do only one thing at a time.",
+    "author": "Mozart",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "126",
+    "text": "Until we can manage time, we can manage nothing else.",
+    "author": "Peter Drucker",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "127",
+    "text": "You can do anything, but not everything.",
+    "author": "David Allen",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "128",
+    "text": "Beware the barrenness of a busy life.",
+    "author": "Socrates",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "129",
+    "text": "It's not enough to be busy. The question is: what are we busy about?",
+    "author": "Henry David Thoreau",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "130",
+    "text": "Focus is a matter of deciding what things you're not going to do.",
+    "author": "John Carmack",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "131",
+    "text": "Where focus goes, energy flows.",
+    "author": "Tony Robbins",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "132",
+    "text": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
+    "author": "Stephen Covey",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "133",
+    "text": "Most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility.",
+    "author": "Marcus Aurelius",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "134",
+    "text": "Starve your distractions and feed your focus.",
+    "author": "Unknown",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "135",
+    "text": "Doing less is not being lazy. Don't give in to a culture that values personal sacrifice over personal productivity.",
+    "author": "Tim Ferriss",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "136",
+    "text": "Essentialism is not about how to get more things done; it's about how to get the right things done.",
+    "author": "Greg McKeown",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "137",
+    "text": "The ability to concentrate and to use your time well is everything.",
+    "author": "Lee Iacocca",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "138",
+    "text": "Simplicity boils down to two steps: Identify the essential. Eliminate the rest.",
+    "author": "Leo Babauta",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "139",
+    "text": "Deep work is the ability to focus without distraction on a cognitively demanding task.",
+    "author": "Cal Newport",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "140",
+    "text": "Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.",
+    "author": "Zig Ziglar",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "141",
+    "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "142",
+    "text": "It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change.",
+    "author": "Charles Darwin",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "143",
+    "text": "A ship in harbor is safe, but that is not what ships are built for.",
+    "author": "John A. Shedd",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "144",
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "145",
+    "text": "Every action you take is a vote for the type of person you wish to become.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "146",
+    "text": "The more you sweat in training, the less you bleed in combat.",
+    "author": "Richard Marcinko",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "147",
+    "text": "When you're finished changing, you're finished.",
+    "author": "Benjamin Franklin",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "148",
+    "text": "The person who says it cannot be done should not interrupt the person who is doing it.",
+    "author": "Chinese Proverb",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "149",
+    "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "150",
+    "text": "The question isn't who is going to let me; it's who is going to stop me.",
+    "author": "Ayn Rand",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "151",
+    "text": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "152",
+    "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "153",
+    "text": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "154",
+    "text": "The expert in anything was once a beginner.",
+    "author": "Helen Hayes",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "155",
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "156",
+    "text": "Life begins at the end of your comfort zone.",
+    "author": "Neale Donald Walsch",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "157",
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "158",
+    "text": "The secret of change is to focus all of your energy not on fighting the old, but on building the new.",
+    "author": "Socrates",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "159",
+    "text": "It's not that I'm so smart, it's just that I stay with problems longer.",
+    "author": "Albert Einstein",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "160",
+    "text": "The man who moves a mountain begins by carrying away small stones.",
+    "author": "Confucius",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "161",
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "162",
+    "text": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "163",
+    "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "164",
+    "text": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "165",
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "166",
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "167",
+    "text": "I am not what happened to me. I am what I choose to become.",
+    "author": "Carl Jung",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "168",
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "169",
+    "text": "Hard times create strong men. Strong men create good times. Good times create weak men. Weak men create hard times.",
+    "author": "G. Michael Hopf",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "170",
+    "text": "The best time for new beginnings is now.",
+    "author": "Unknown",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "171",
+    "text": "If you don't know where you're going, any road will get you there.",
+    "author": "Lewis Carroll",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "172",
+    "text": "The greatest enemy of a good plan is the dream of a perfect plan.",
+    "author": "Carl von Clausewitz",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "173",
+    "text": "Vision without execution is hallucination.",
+    "author": "Thomas Edison",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "174",
+    "text": "Strategy is about making choices, trade-offs; it's about deliberately choosing to be different.",
+    "author": "Michael Porter",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "175",
+    "text": "However beautiful the strategy, you should occasionally look at the results.",
+    "author": "Winston Churchill",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "176",
+    "text": "In preparing for battle I have always found that plans are useless, but planning is indispensable.",
+    "author": "Dwight D. Eisenhower",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "177",
+    "text": "The essence of strategy is choosing what not to do.",
+    "author": "Michael Porter",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "178",
+    "text": "Good strategy has an essential logical structure: a diagnosis, a guiding policy, and coherent action.",
+    "author": "Richard Rumelt",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "179",
+    "text": "The best strategy is always to be very strong.",
+    "author": "Carl von Clausewitz",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "180",
+    "text": "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "181",
+    "text": "Know the enemy and know yourself; in a hundred battles you will never be in peril.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "182",
+    "text": "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "183",
+    "text": "The supreme art of war is to subdue the enemy without fighting.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "184",
+    "text": "All warfare is based on deception.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "185",
+    "text": "Appear weak when you are strong, and strong when you are weak.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "186",
+    "text": "If you know the enemy and know yourself, you need not fear the result of a hundred battles.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "187",
+    "text": "Speed is the essence of war. Take advantage of the enemy's unpreparedness.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "188",
+    "text": "Move swift as the wind and closely-formed as the wood. Attack like the fire and be still as the mountain.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "189",
+    "text": "Build your opponent a golden bridge to retreat across.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "190",
+    "text": "The wise warrior avoids the battle.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "191",
+    "text": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "192",
+    "text": "The best time to strike is when the iron is hot.",
+    "author": "Proverb",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "193",
+    "text": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+    "author": "Abraham Lincoln",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "194",
+    "text": "Opportunities multiply as they are seized.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "195",
+    "text": "He will win who knows when to fight and when not to fight.",
+    "author": "Sun Tzu",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "196",
+    "text": "What gets measured gets managed.",
+    "author": "Peter Drucker",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "197",
+    "text": "Your margin is someone else's opportunity.",
+    "author": "Jeff Bezos",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "198",
+    "text": "The most important thing in communication is hearing what isn't said.",
+    "author": "Peter Drucker",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "199",
+    "text": "Business has only two functions — marketing and innovation.",
+    "author": "Peter Drucker",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "200",
+    "text": "It's not about ideas. It's about making ideas happen.",
+    "author": "Scott Belsky",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "201",
+    "text": "Revenue is vanity, profit is sanity, but cash is king.",
+    "author": "Business Saying",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "202",
+    "text": "The goal is not to do business with everybody who needs what you have. The goal is to do business with people who believe what you believe.",
+    "author": "Simon Sinek",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "203",
+    "text": "Your most unhappy customers are your greatest source of learning.",
+    "author": "Bill Gates",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "204",
+    "text": "Make your product easier to buy than your competition, or you will find your customers buying from them, not you.",
+    "author": "Mark Cuban",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "205",
+    "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+    "author": "Reid Hoffman",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "206",
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "207",
+    "text": "Be stubborn on vision, but flexible on details.",
+    "author": "Jeff Bezos",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "208",
+    "text": "The customer rarely buys what the company thinks it's selling.",
+    "author": "Peter Drucker",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "209",
+    "text": "Don't find customers for your products, find products for your customers.",
+    "author": "Seth Godin",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "210",
+    "text": "In the world of business, the people who are most successful are those who are doing what they love.",
     "author": "Warren Buffett",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "211",
+    "text": "Get closer than ever to your customers. So close that you tell them what they need well before they realize it themselves.",
+    "author": "Steve Jobs",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "212",
+    "text": "A business that makes nothing but money is a poor business.",
+    "author": "Henry Ford",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "213",
+    "text": "The golden rule for every business: Put yourself in your customer's place.",
+    "author": "Orison Swett Marden",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "214",
+    "text": "Your brand is what people say about you when you're not in the room.",
+    "author": "Jeff Bezos",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "215",
+    "text": "Business opportunities are like buses, there's always another one coming.",
+    "author": "Richard Branson",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "216",
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "217",
+    "text": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "218",
+    "text": "The fool doth think he is wise, but the wise man knows himself to be a fool.",
+    "author": "William Shakespeare",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "219",
+    "text": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "220",
+    "text": "The only thing I know is that I know nothing.",
+    "author": "Socrates",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "221",
+    "text": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "222",
+    "text": "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.",
+    "author": "Isaac Asimov",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "223",
+    "text": "Knowledge speaks, but wisdom listens.",
+    "author": "Jimi Hendrix",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "224",
+    "text": "The measure of intelligence is the ability to change.",
+    "author": "Albert Einstein",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "225",
+    "text": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "author": "Aristotle",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "226",
+    "text": "The wise man does at once what the fool does finally.",
+    "author": "Niccolo Machiavelli",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "227",
+    "text": "Any fool can know. The point is to understand.",
+    "author": "Albert Einstein",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "228",
+    "text": "Silence is a source of great strength.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "229",
+    "text": "He who knows others is wise; he who knows himself is enlightened.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "230",
+    "text": "The journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "231",
+    "text": "When I let go of what I am, I become what I might be.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "232",
+    "text": "Nature does not hurry, yet everything is accomplished.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "233",
+    "text": "The wise man is one who knows what he does not know.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "234",
+    "text": "Be content with what you have; rejoice in the way things are.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "235",
+    "text": "To the mind that is still, the whole universe surrenders.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "236",
+    "text": "Care about what other people think and you will always be their prisoner.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "237",
+    "text": "Those who know do not speak. Those who speak do not know.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "238",
+    "text": "Mastering others is strength. Mastering yourself is true power.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "239",
+    "text": "A great nation is like a great man: when he makes a mistake, he realizes it.",
+    "author": "Lao Tzu",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "240",
+    "text": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "241",
+    "text": "Real knowledge is to know the extent of one's ignorance.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "242",
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "243",
+    "text": "Before you embark on a journey of revenge, dig two graves.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "244",
+    "text": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "245",
+    "text": "To see what is right and not do it is the want of courage.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "246",
+    "text": "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "247",
+    "text": "Choose a job you love, and you will never have to work a day in your life.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "248",
+    "text": "Desire to have things done quickly prevents their being done thoroughly.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "249",
+    "text": "When you see a good person, think of becoming like them. When you see someone not so good, reflect on your own weak points.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "250",
+    "text": "Seek not the things that are too hard for thee, neither search the things that are above thy strength.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "251",
+    "text": "Free education is abundant, all over the Internet. It's the desire to learn that's scarce.",
+    "author": "Naval Ravikant",
     "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "252",
+    "text": "Escape competition through authenticity.",
+    "author": "Naval Ravikant",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "253",
+    "text": "Specific knowledge is knowledge that you cannot be trained for.",
+    "author": "Naval Ravikant",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "254",
+    "text": "The way to get rich is to give society what it wants but doesn't know how to get. At scale.",
+    "author": "Naval Ravikant",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "255",
+    "text": "Code and media are permissionless leverage.",
+    "author": "Naval Ravikant",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "256",
+    "text": "Play long-term games with long-term people.",
+    "author": "Naval Ravikant",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "257",
+    "text": "Pick an industry where you can play long-term games with long-term people.",
+    "author": "Naval Ravikant",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "258",
+    "text": "Arm yourself with specific knowledge, accountability, and leverage.",
+    "author": "Naval Ravikant",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "259",
+    "text": "Read what you love until you love to read.",
+    "author": "Naval Ravikant",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "260",
+    "text": "You're not going to get rich renting out your time.",
+    "author": "Naval Ravikant",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "261",
+    "text": "Seek wealth, not money or status.",
+    "author": "Naval Ravikant",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "262",
+    "text": "Earn with your mind, not your time.",
+    "author": "Naval Ravikant",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "263",
+    "text": "Become the best in the world at what you do. Keep redefining what you do until this is true.",
+    "author": "Naval Ravikant",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "264",
+    "text": "The most important skill for getting rich is becoming a perpetual learner.",
+    "author": "Naval Ravikant",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "265",
+    "text": "Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication.",
+    "author": "Naval Ravikant",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "266",
+    "text": "A calm mind, a fit body, and a house full of love. These things cannot be bought. They must be earned.",
+    "author": "Naval Ravikant",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "267",
+    "text": "All the real benefits in life come from compound interest.",
+    "author": "Naval Ravikant",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "268",
+    "text": "Desire is a contract you make with yourself to be unhappy until you get what you want.",
+    "author": "Naval Ravikant",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "269",
+    "text": "The modern struggle: Lone individuals summoning inhuman willpower, fasting, meditating, to control the excesses of modern diets and media.",
+    "author": "Naval Ravikant",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "270",
+    "text": "If you're not willing to do a wholesale, 100% swap with who that person is, then you have no right to complain.",
+    "author": "Naval Ravikant",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "271",
+    "text": "Habits are everything. At the end of the day, you are your habits.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "272",
+    "text": "Goals are good for setting a direction, but systems are best for making progress.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "273",
+    "text": "The task of breaking a bad habit is like uprooting a powerful oak within us.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "274",
+    "text": "Small habits don't add up. They compound.",
+    "author": "James Clear",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "275",
+    "text": "Environment is the invisible hand that shapes human behavior.",
+    "author": "James Clear",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "276",
+    "text": "Time magnifies the margin between success and failure. It will multiply whatever you feed it.",
+    "author": "James Clear",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "277",
+    "text": "When nothing seems to help, I go and look at a stonecutter hammering away at his rock.",
+    "author": "Jacob Riis",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "278",
+    "text": "Be the designer of your world and not merely the consumer of it.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "279",
+    "text": "The secret to getting results that last is to never stop making improvements.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "280",
+    "text": "The ultimate form of intrinsic motivation is when a habit becomes part of your identity.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "281",
+    "text": "Every action is a vote for the type of person you wish to become.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "282",
+    "text": "We don't rise to the level of our expectations, we fall to the level of our training.",
+    "author": "Archilochus",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "283",
+    "text": "Missing once is an accident. Missing twice is the start of a new habit.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "284",
+    "text": "You should be far more concerned with your current trajectory than with your current results.",
+    "author": "James Clear",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "285",
+    "text": "The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "286",
+    "text": "You get what you repeat.",
+    "author": "James Clear",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "287",
+    "text": "We imitate the habits of three groups in particular: the close, the many, and the powerful.",
+    "author": "James Clear",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "288",
+    "text": "The difference between a good day and a bad day is often a few productive hours.",
+    "author": "James Clear",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "289",
+    "text": "Professionals stick to the schedule; amateurs let life get in the way.",
+    "author": "James Clear",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "290",
+    "text": "Being poor is not having too little, it is wanting more.",
+    "author": "Seneca",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "291",
+    "text": "Discipline equals freedom.",
+    "author": "Jocko Willink",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "292",
+    "text": "Extreme ownership: Leaders must own everything in their world. There is no one else to blame.",
+    "author": "Jocko Willink",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "293",
+    "text": "Don't expect to be motivated every day to get out there and make things happen. You won't be. Don't count on motivation. Count on discipline.",
+    "author": "Jocko Willink",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "294",
+    "text": "Two is one, and one is none.",
+    "author": "Jocko Willink",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "295",
+    "text": "The only way to not feel the pain of discipline is to feel the pain of regret.",
+    "author": "Jocko Willink",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "296",
+    "text": "Good. If something bad happens, you can figure out a way to turn it into something good.",
+    "author": "Jocko Willink",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "297",
+    "text": "Stop researching every aspect of it and reading all about it and debating the pros and cons of it. Start doing it.",
+    "author": "Jocko Willink",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "298",
+    "text": "Default aggressive. Move forward. Don't wait to be told what to do.",
+    "author": "Jocko Willink",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "299",
+    "text": "Relax. Look around. Make a call.",
+    "author": "Jocko Willink",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "300",
+    "text": "Prioritize and execute.",
+    "author": "Jocko Willink",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "301",
+    "text": "Never stop learning. Be humble enough to learn.",
+    "author": "Tim Ferriss",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "302",
+    "text": "Focus on being productive instead of busy.",
+    "author": "Tim Ferriss",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "303",
+    "text": "A person's success in life can usually be measured by the number of uncomfortable conversations they are willing to have.",
+    "author": "Tim Ferriss",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "304",
+    "text": "What we fear doing most is usually what we most need to do.",
+    "author": "Tim Ferriss",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "305",
+    "text": "Being selective — doing less — is the path of the productive.",
+    "author": "Tim Ferriss",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "306",
+    "text": "The question you should be asking isn't, 'What do I want?' or 'What are my goals?' but 'What would excite me?'",
+    "author": "Tim Ferriss",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "307",
+    "text": "If you are insecure, guess what? The rest of the world is, too.",
+    "author": "Tim Ferriss",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "308",
+    "text": "Most people will choose unhappiness over uncertainty.",
+    "author": "Tim Ferriss",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "309",
+    "text": "The fishing is best where the fewest go and the collective insecurity of the world makes it easy for people to hit home runs while everyone is aiming for base hits.",
+    "author": "Tim Ferriss",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "310",
+    "text": "What you do is infinitely more important than how you do it.",
+    "author": "Tim Ferriss",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "311",
+    "text": "I value self-discipline, but creating systems that make it next to impossible to misbehave is more reliable than self-control.",
+    "author": "Tim Ferriss",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "312",
+    "text": "The most important actions are never comfortable.",
+    "author": "Tim Ferriss",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "313",
+    "text": "Life punishes the vague wish and rewards the specific ask.",
+    "author": "Tim Ferriss",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "314",
+    "text": "For all of the most important things, the timing always sucks. Just do it.",
+    "author": "Tim Ferriss",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "315",
+    "text": "Money is multiplied in practical value depending on the number of W's you control in your life: what you do, when you do it, where you do it, and with whom you do it.",
+    "author": "Tim Ferriss",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "316",
+    "text": "If you let your learning lead to knowledge, you become a fool. If you let your learning lead to action, you become wealthy.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "317",
+    "text": "You are the average of the five people you spend the most time with.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "318",
+    "text": "Either you run the day or the day runs you.",
+    "author": "Jim Rohn",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "319",
+    "text": "Formal education will make you a living; self-education will make you a fortune.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "320",
+    "text": "We must all suffer one of two things: the pain of discipline or the pain of regret.",
+    "author": "Jim Rohn",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "321",
+    "text": "Don't wish it was easier, wish you were better.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "322",
+    "text": "Success is nothing more than a few simple disciplines, practiced every day.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "323",
+    "text": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "324",
+    "text": "Learn to work harder on yourself than you do on your job.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "325",
+    "text": "Motivation is what gets you started. Habit is what keeps you going.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "326",
+    "text": "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+    "author": "Jim Rohn",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "327",
+    "text": "Your life does not get better by chance, it gets better by change.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "328",
+    "text": "Time is more valuable than money. You can get more money, but you cannot get more time.",
+    "author": "Jim Rohn",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "329",
+    "text": "Don't let your learning lead to knowledge. Let your learning lead to action.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "330",
+    "text": "Success is steady progress toward one's personal goals.",
+    "author": "Jim Rohn",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "331",
+    "text": "Investing in yourself is the best investment you will ever make.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "332",
+    "text": "The fears we don't face become our limits.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "333",
+    "text": "All change is hard at first, messy in the middle and gorgeous at the end.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "334",
+    "text": "If you're not scared a lot you're not doing very much.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "335",
+    "text": "The moment you take responsibility for everything in your life is the moment you can change anything in your life.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "336",
+    "text": "Small daily improvements over time lead to stunning results.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "337",
+    "text": "Your days are your life in miniature.",
+    "author": "Robin Sharma",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "338",
+    "text": "Don't live the same year 75 times and call it a life.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "339",
+    "text": "The quality of your life is determined by the quality of your thoughts.",
+    "author": "Robin Sharma",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "340",
+    "text": "Victims recite problems, leaders provide solutions.",
+    "author": "Robin Sharma",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "341",
+    "text": "If you want to have the results only 5% of the population have, you have to be willing to do what only 5% of the population are willing to do.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "342",
+    "text": "Your excuses are nothing more than lies your fears have sold you.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "343",
+    "text": "Stop managing your time. Start managing your focus.",
+    "author": "Robin Sharma",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "344",
+    "text": "To double your income, triple your investment in self-development.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "345",
+    "text": "Ordinary people have big TVs. Extraordinary people have big libraries.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "346",
+    "text": "Dreamers dream, leaders launch.",
+    "author": "Robin Sharma",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "347",
+    "text": "Work hard at your job and you'll make a living. Work hard on yourself and you'll make a fortune.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "348",
+    "text": "Change is hardest at the beginning, messiest in the middle and best at the end.",
+    "author": "Robin Sharma",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "349",
+    "text": "One of the greatest gifts you can give to anyone is the gift of your attention.",
+    "author": "Jim Rohn",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "350",
+    "text": "Your income right now is a result of your standards, it is not the industry, it is not the economy.",
+    "author": "Tony Robbins",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "351",
+    "text": "Setting goals is the first step in turning the invisible into the visible.",
+    "author": "Tony Robbins",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "352",
+    "text": "The path to success is to take massive, determined action.",
+    "author": "Tony Robbins",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "353",
+    "text": "The only thing that's keeping you from getting what you want is the story you keep telling yourself.",
+    "author": "Tony Robbins",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "354",
+    "text": "Identify your problems but give your power and energy to solutions.",
+    "author": "Tony Robbins",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "355",
+    "text": "Stay committed to your decisions, but stay flexible in your approach.",
+    "author": "Tony Robbins",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "356",
+    "text": "It is in your moments of decision that your destiny is shaped.",
+    "author": "Tony Robbins",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "357",
+    "text": "Progress equals happiness.",
+    "author": "Tony Robbins",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "358",
+    "text": "If you do what you've always done, you'll get what you've always gotten.",
+    "author": "Tony Robbins",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "359",
+    "text": "The secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you.",
+    "author": "Tony Robbins",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "360",
+    "text": "It's not about the goal. It's about growing to become the person that can accomplish that goal.",
+    "author": "Tony Robbins",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "361",
+    "text": "Complexity is the enemy of execution.",
+    "author": "Tony Robbins",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "362",
+    "text": "If you can't you must. If you must you can.",
+    "author": "Tony Robbins",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "363",
+    "text": "Trade your expectations for appreciation and the world changes instantly.",
+    "author": "Tony Robbins",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "364",
+    "text": "The only limit to your impact is your imagination and commitment.",
+    "author": "Tony Robbins",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "365",
+    "text": "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.",
+    "author": "Tony Robbins",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "366",
+    "text": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "367",
+    "text": "By failing to prepare, you are preparing to fail.",
+    "author": "Benjamin Franklin",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "368",
+    "text": "Energy and persistence conquer all things.",
+    "author": "Benjamin Franklin",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "369",
+    "text": "Never leave that till tomorrow which you can do today.",
+    "author": "Benjamin Franklin",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "370",
+    "text": "Well done is better than well said.",
+    "author": "Benjamin Franklin",
+    "category": "focus",
     "note": null
   }
 ]
