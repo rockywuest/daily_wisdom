@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "text": "Speed is the form of ecstasy the technical revolution has bestowed on man.",
+    "author": "Milan Kundera",
+    "category": "focus",
+    "note": "Reminder to slow down, resist urgency addiction"
+  },
+  {
+    "id": "2",
+    "text": "The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control.",
+    "author": "Epictetus",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "3",
+    "text": "If you don't know where you're going, any road will get you there.",
+    "author": "Lewis Carroll",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "4",
+    "text": "Culture eats strategy for breakfast.",
+    "author": "Peter Drucker",
+    "category": "leadership",
+    "note": "Relevant for AI transformation change management"
+  },
+  {
+    "id": "5",
+    "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "6",
+    "text": "Show me the incentive and I will show you the outcome.",
+    "author": "Charlie Munger",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "7",
+    "text": "What gets measured gets managed.",
+    "author": "Peter Drucker",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "8",
+    "text": "The reasonable man adapts himself to the world. The unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.",
+    "author": "George Bernard Shaw",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "9",
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "10",
+    "text": "The ability to simplify means to eliminate the unnecessary so that the necessary may speak.",
+    "author": "Hans Hofmann",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "11",
+    "text": "In the beginner's mind there are many possibilities, but in the expert's mind there are few.",
+    "author": "Shunryu Suzuki",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "12",
+    "text": "The greatest enemy of a good plan is the dream of a perfect plan.",
+    "author": "Carl von Clausewitz",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "13",
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "14",
+    "text": "It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change.",
+    "author": "Charles Darwin",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "15",
+    "text": "The most dangerous phrase in the language is: We've always done it this way.",
+    "author": "Grace Hopper",
+    "category": "mental-model",
+    "note": "Perfect for AI transformation resistance"
+  },
+  {
+    "id": "16",
+    "text": "If I had eight hours to chop down a tree, I'd spend six hours sharpening my axe.",
+    "author": "Abraham Lincoln",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "17",
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "18",
+    "text": "A ship in harbor is safe, but that is not what ships are built for.",
+    "author": "John A. Shedd",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "19",
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "20",
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "21",
+    "text": "Don't let perfect be the enemy of good.",
+    "author": "Voltaire",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "22",
+    "text": "Every action you take is a vote for the type of person you wish to become.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "23",
+    "text": "The more you sweat in training, the less you bleed in combat.",
+    "author": "Richard Marcinko",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "24",
+    "text": "When you're finished changing, you're finished.",
+    "author": "Benjamin Franklin",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "25",
+    "text": "Clarity about what matters provides clarity about what does not.",
+    "author": "Cal Newport",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "26",
+    "text": "The main thing is to keep the main thing the main thing.",
+    "author": "Stephen Covey",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "27",
+    "text": "How we spend our days is, of course, how we spend our lives.",
+    "author": "Annie Dillard",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "28",
+    "text": "It's not what you look at that matters, it's what you see.",
+    "author": "Henry David Thoreau",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "29",
+    "text": "A problem well-stated is a problem half-solved.",
+    "author": "Charles Kettering",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "30",
+    "text": "The person who says it cannot be done should not interrupt the person who is doing it.",
+    "author": "Chinese Proverb",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "31",
+    "text": "If you want to go fast, go alone. If you want to go far, go together.",
+    "author": "African Proverb",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "32",
+    "text": "The quality of your decisions determines the quality of your life.",
+    "author": "Tony Robbins",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "33",
+    "text": "Between stimulus and response there is a space. In that space is our power to choose our response.",
+    "author": "Viktor Frankl",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "34",
+    "text": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "35",
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "category": "wisdom",
+    "note": null
+  },
+  {
+    "id": "36",
+    "text": "Management is doing things right. Leadership is doing the right things.",
+    "author": "Peter Drucker",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "37",
+    "text": "Your margin is someone else's opportunity.",
+    "author": "Jeff Bezos",
+    "category": "business",
+    "note": null
+  },
+  {
+    "id": "38",
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "39",
+    "text": "Time is the most valuable thing a man can spend.",
+    "author": "Theophrastus",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "40",
+    "text": "The bottleneck is always at the top of the bottle.",
+    "author": "Peter Drucker",
+    "category": "leadership",
+    "note": null
+  },
+  {
+    "id": "41",
+    "text": "Think like a man of action, act like a man of thought.",
+    "author": "Henri Bergson",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "42",
+    "text": "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.",
+    "author": "F. Scott Fitzgerald",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "43",
+    "text": "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.",
+    "author": "Albert Einstein",
+    "category": "mental-model",
+    "note": null
+  },
+  {
+    "id": "44",
+    "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "author": "James Clear",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "45",
+    "text": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+    "author": "Abraham Lincoln",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "46",
+    "text": "The question isn't who is going to let me; it's who is going to stop me.",
+    "author": "Ayn Rand",
+    "category": "growth",
+    "note": null
+  },
+  {
+    "id": "47",
+    "text": "Vision without execution is hallucination.",
+    "author": "Thomas Edison",
+    "category": "strategy",
+    "note": null
+  },
+  {
+    "id": "48",
+    "text": "Take care of the minutes and the hours will take care of themselves.",
+    "author": "Lord Chesterfield",
+    "category": "focus",
+    "note": null
+  },
+  {
+    "id": "49",
+    "text": "The impediment to action advances action. What stands in the way becomes the way.",
+    "author": "Marcus Aurelius",
+    "category": "stoicism",
+    "note": null
+  },
+  {
+    "id": "50",
+    "text": "Price is what you pay. Value is what you get.",
+    "author": "Warren Buffett",
+    "category": "mental-model",
+    "note": null
+  }
+]
