@@ -1,0 +1,85 @@
+# SwiftLint Configuration for DailyWisdom
+# https://github.com/realm/SwiftLint
+
+# Paths to include
+included:
+  - DailyWisdom/DailyWisdom
+
+# Paths to exclude
+excluded:
+  - DailyWisdom/DailyWisdom.xcodeproj
+  - DailyWisdom/DailyWisdomTests
+  - DailyWisdom/fastlane
+  - Pods
+  - .build
+
+# Disabled rules that conflict with SwiftUI patterns
+disabled_rules:
+  - trailing_comma              # SwiftUI often uses trailing commas
+  - force_cast                  # Sometimes necessary for AppKit interop
+  - multiple_closures_with_trailing_closure  # SwiftUI modifiers use this pattern
+  - type_body_length            # SwiftUI views can be long
+  - file_length                 # Views with previews can exceed defaults
+
+# Opt-in rules for better code quality
+opt_in_rules:
+  - empty_count                 # Prefer isEmpty over count == 0
+  - empty_string                # Prefer isEmpty over == ""
+  - first_where                 # Prefer first(where:) over filter().first
+  - last_where                  # Prefer last(where:) over filter().last
+  - sorted_first_last           # Prefer min()/max() over sorted().first/last
+  - contains_over_first_not_nil # Prefer contains over first != nil
+  - flatmap_over_map_reduce     # Prefer flatMap over map + reduce
+  - toggle_bool                 # Prefer toggle() over = !
+  - modifier_order              # Consistent SwiftUI modifier ordering
+  - private_action              # @IBAction should be private
+  - private_outlet              # @IBOutlet should be private
+  - closure_spacing             # Consistent closure spacing
+  - overridden_super_call       # Call super in overrides
+  - prohibited_super_call       # Don't call super when not needed
+  - redundant_nil_coalescing    # Avoid redundant ?? nil
+
+# Rule configurations
+line_length:
+  warning: 150
+  error: 200
+  ignores_comments: true
+  ignores_urls: true
+  ignores_function_declarations: true
+
+function_body_length:
+  warning: 60
+  error: 100
+
+cyclomatic_complexity:
+  warning: 15
+  error: 25
+
+nesting:
+  type_level: 3
+  function_level: 3
+
+identifier_name:
+  min_length:
+    warning: 2
+    error: 1
+  max_length:
+    warning: 50
+    error: 60
+  excluded:
+    - id
+    - x
+    - y
+    - i
+    - j
+    - k
+    - to
+    - on
+
+# Custom rules
+custom_rules:
+  no_print_statements:
+    name: "No Print Statements"
+    regex: "\\bprint\\s*\\("
+    message: "Consider using os_log or Logger instead of print statements"
+    severity: warning

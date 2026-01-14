@@ -26,7 +26,19 @@
 		E81111212A000011 /* DataImportService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80000112A000011 /* DataImportService.swift */; };
 		E81111222A000012 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E80000122A000012 /* Assets.xcassets */; };
 		E81111232A000013 /* quotes.json in Resources */ = {isa = PBXBuildFile; fileRef = E80000132A000013 /* quotes.json */; };
+		E8TTTT012A000001 /* QuoteCategoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8TTTT002A000001 /* QuoteCategoryTests.swift */; };
+		E8TTTT022A000002 /* QuoteServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8TTTT002A000002 /* QuoteServiceTests.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E8TTTT032A000003 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E86666662A000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E84444442A000000;
+			remoteInfo = DailyWisdom;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		E80000002A000000 /* DailyWisdom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DailyWisdom.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,10 +63,20 @@
 		E80000132A000013 /* quotes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quotes.json; sourceTree = "<group>"; };
 		E80000142A000014 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E80000152A000015 /* DailyWisdom.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DailyWisdom.entitlements; sourceTree = "<group>"; };
+		E8TTTT002A000000 /* DailyWisdomTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DailyWisdomTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E8TTTT002A000001 /* QuoteCategoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteCategoryTests.swift; sourceTree = "<group>"; };
+		E8TTTT002A000002 /* QuoteServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteServiceTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		E82222222A000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E8TTTT042A000004 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -68,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				E83333342A000001 /* DailyWisdom */,
+				E8TTTT052A000005 /* DailyWisdomTests */,
 				E83333352A000002 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -91,6 +114,7 @@
 			isa = PBXGroup;
 			children = (
 				E80000002A000000 /* DailyWisdom.app */,
+				E8TTTT002A000000 /* DailyWisdomTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -196,6 +220,15 @@
 			path = Components;
 			sourceTree = "<group>";
 		};
+		E8TTTT052A000005 /* DailyWisdomTests */ = {
+			isa = PBXGroup;
+			children = (
+				E8TTTT002A000001 /* QuoteCategoryTests.swift */,
+				E8TTTT002A000002 /* QuoteServiceTests.swift */,
+			);
+			path = DailyWisdomTests;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -216,6 +249,23 @@
 			productReference = E80000002A000000 /* DailyWisdom.app */;
 			productType = "com.apple.product-type.application";
 		};
+		E8TTTT062A000006 /* DailyWisdomTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E8TTTT0B2A00000B /* Build configuration list for PBXNativeTarget "DailyWisdomTests" */;
+			buildPhases = (
+				E8TTTT072A000007 /* Sources */,
+				E8TTTT042A000004 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E8TTTT082A000008 /* PBXTargetDependency */,
+			);
+			name = DailyWisdomTests;
+			productName = DailyWisdomTests;
+			productReference = E8TTTT002A000000 /* DailyWisdomTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -228,6 +278,10 @@
 				TargetAttributes = {
 					E84444442A000000 = {
 						CreatedOnToolsVersion = 15.2;
+					};
+					E8TTTT062A000006 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = E84444442A000000;
 					};
 				};
 			};
@@ -245,6 +299,7 @@
 			projectRoot = "";
 			targets = (
 				E84444442A000000 /* DailyWisdom */,
+				E8TTTT062A000006 /* DailyWisdomTests */,
 			);
 		};
 /* End PBXProject section */
@@ -286,7 +341,24 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E8TTTT072A000007 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E8TTTT012A000001 /* QuoteCategoryTests.swift in Sources */,
+				E8TTTT022A000002 /* QuoteServiceTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E8TTTT082A000008 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E84444442A000000 /* DailyWisdom */;
+			targetProxy = E8TTTT032A000003 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		E87777772A000000 /* Debug */ = {
@@ -465,6 +537,42 @@
 			};
 			name = Release;
 		};
+		E8TTTT092A000009 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rockywuest.DailyWisdomTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DailyWisdom.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DailyWisdom";
+			};
+			name = Debug;
+		};
+		E8TTTT0A2A00000A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rockywuest.DailyWisdomTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DailyWisdom.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DailyWisdom";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -482,6 +590,15 @@
 			buildConfigurations = (
 				E87777772A000000 /* Debug */,
 				E87777782A000001 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E8TTTT0B2A00000B /* Build configuration list for PBXNativeTarget "DailyWisdomTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E8TTTT092A000009 /* Debug */,
+				E8TTTT0A2A00000A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

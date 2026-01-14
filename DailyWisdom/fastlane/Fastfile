@@ -40,8 +40,9 @@ platform :mac do
 
   desc "Take screenshots for App Store"
   lane :screenshots do
-    # Note: Requires UI tests configured
-    capture_mac_screenshots(scheme: "DailyWisdomUITests")
+    # Note: Requires UI tests to be configured first
+    # UI tests are not yet implemented for this project
+    UI.user_error!("UI tests not yet configured. Add DailyWisdomUITests target first.")
   end
 
   desc "Upload only metadata to App Store Connect"
