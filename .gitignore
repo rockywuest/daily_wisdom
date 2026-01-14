@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude
+.claude/plans/

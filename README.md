@@ -24,9 +24,9 @@ DailyWisdom transforms every screen unlock into an opportunity for inspiration. 
 
 | Quote Display | Menubar | Settings |
 |---------------|---------|----------|
-| ![Quote](fastlane/screenshots/en-US/quote_display.png) | ![Menu](fastlane/screenshots/en-US/menubar.png) | ![Settings](fastlane/screenshots/en-US/settings.png) |
+| ![Quote](DailyWisdom/fastlane/screenshots/en-US/quote_display.png) | ![Menu](DailyWisdom/fastlane/screenshots/en-US/menubar.png) | ![Settings](DailyWisdom/fastlane/screenshots/en-US/settings.png) |
 
-*Note: Add screenshots to `fastlane/screenshots/en-US/` directory*
+*Note: Add screenshots to `DailyWisdom/fastlane/screenshots/en-US/` directory*
 
 ## Requirements
 
@@ -43,13 +43,13 @@ DailyWisdom transforms every screen unlock into an opportunity for inspiration. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rockywuest/DailyWisdom.git
-   cd DailyWisdom
+   git clone https://github.com/rockywuest/daily_wisdom.git
+   cd daily_wisdom
    ```
 
 2. Open in Xcode:
    ```bash
-   open DailyWisdom.xcodeproj
+   open DailyWisdom/DailyWisdom.xcodeproj
    ```
 
 3. Build and run (⌘R)
@@ -117,7 +117,7 @@ This ensures variety while still allowing favorites to occasionally reappear.
 
 ### Adding Custom Quotes
 
-Edit `DailyWisdom/Resources/quotes.json`:
+Edit `DailyWisdom/DailyWisdom/Resources/quotes.json`:
 
 ```json
 {
