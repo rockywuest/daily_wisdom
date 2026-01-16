@@ -4,7 +4,6 @@ import SwiftData
 struct MenuBarView: View {
     @Environment(\.modelContext) private var modelContext
     @Environment(QuoteViewModel.self) private var viewModel
-    @Environment(\.openSettings) private var openSettings
 
     @State private var showingFavorites = false
 
