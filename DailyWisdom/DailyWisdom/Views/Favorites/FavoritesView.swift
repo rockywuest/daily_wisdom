@@ -125,15 +125,19 @@ struct FavoriteQuoteRow: View {
 
                 Spacer()
 
-                Button {
-                    copyToClipboard()
-                } label: {
-                    Image(systemName: "doc.on.doc")
-                        .font(.caption)
+                HStack(spacing: 8) {
+                    ShareButton(text: quote.shareText, size: .caption)
+
+                    Button {
+                        copyToClipboard()
+                    } label: {
+                        Image(systemName: "doc.on.doc")
+                            .font(.caption)
+                    }
+                    .buttonStyle(.plain)
+                    .help("Copy to clipboard")
                 }
-                .buttonStyle(.plain)
                 .opacity(isHovering ? 1 : 0)
-                .help("Copy to clipboard")
             }
         }
         .padding(.vertical, 8)

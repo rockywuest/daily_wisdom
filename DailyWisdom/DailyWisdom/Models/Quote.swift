@@ -18,6 +18,11 @@ final class Quote {
         set { categoryRaw = newValue.rawValue }
     }
 
+    /// Formatted text for sharing via system share sheet
+    var shareText: String {
+        "\"\(text)\" — \(author)"
+    }
+
     init(
         id: UUID = UUID(),
         text: String,

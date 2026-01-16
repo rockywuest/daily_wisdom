@@ -21,6 +21,7 @@
 		E811111C2A00000C /* VisualEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E800000C2A00000C /* VisualEffectView.swift */; };
 		E811111D2A00000D /* CategoryBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = E800000D2A00000D /* CategoryBadge.swift */; };
 		E811111E2A00000E /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E800000E2A00000E /* FavoriteButton.swift */; };
+		E811112F2A00001F /* ShareButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E800001F2A00001F /* ShareButton.swift */; };
 		E811111F2A00000F /* ScreenLockMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E800000F2A00000F /* ScreenLockMonitor.swift */; };
 		E81111202A000010 /* QuoteService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80000102A000010 /* QuoteService.swift */; };
 		E81111212A000011 /* DataImportService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80000112A000011 /* DataImportService.swift */; };
@@ -56,6 +57,7 @@
 		E800000C2A00000C /* VisualEffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectView.swift; sourceTree = "<group>"; };
 		E800000D2A00000D /* CategoryBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryBadge.swift; sourceTree = "<group>"; };
 		E800000E2A00000E /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		E800001F2A00001F /* ShareButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareButton.swift; sourceTree = "<group>"; };
 		E800000F2A00000F /* ScreenLockMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenLockMonitor.swift; sourceTree = "<group>"; };
 		E80000102A000010 /* QuoteService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteService.swift; sourceTree = "<group>"; };
 		E80000112A000011 /* DataImportService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataImportService.swift; sourceTree = "<group>"; };
@@ -216,6 +218,7 @@
 				E800000C2A00000C /* VisualEffectView.swift */,
 				E800000D2A00000D /* CategoryBadge.swift */,
 				E800000E2A00000E /* FavoriteButton.swift */,
+				E800001F2A00001F /* ShareButton.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				E811111C2A00000C /* VisualEffectView.swift in Sources */,
 				E811111D2A00000D /* CategoryBadge.swift in Sources */,
 				E811111E2A00000E /* FavoriteButton.swift in Sources */,
+				E811112F2A00001F /* ShareButton.swift in Sources */,
 				E811111F2A00000F /* ScreenLockMonitor.swift in Sources */,
 				E81111202A000010 /* QuoteService.swift in Sources */,
 				E81111212A000011 /* DataImportService.swift in Sources */,

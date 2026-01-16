@@ -115,18 +115,32 @@ struct MenuBarView: View {
 struct RecentQuoteRow: View {
     let quote: Quote
 
-    var body: some View {
-        VStack(alignment: .leading, spacing: 2) {
-            Text(quote.text)
-                .font(.caption)
-                .lineLimit(2)
-                .foregroundStyle(.primary)
+    @State private var isHovering = false
 
-            Text("— \(quote.author)")
-                .font(.caption2)
-                .foregroundStyle(.secondary)
+    var body: some View {
+        HStack {
+            VStack(alignment: .leading, spacing: 2) {
+                Text(quote.text)
+                    .font(.caption)
+                    .lineLimit(2)
+                    .foregroundStyle(.primary)
+
+                Text("— \(quote.author)")
+                    .font(.caption2)
+                    .foregroundStyle(.secondary)
+            }
+
+            Spacer()
+
+            if isHovering {
+                ShareButton(text: quote.shareText, size: .caption)
+            }
         }
         .padding(.vertical, 4)
+        .contentShape(Rectangle())
+        .onHover { hovering in
+            isHovering = hovering
+        }
     }
 }
 

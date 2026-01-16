@@ -64,9 +64,12 @@ struct QuoteWindowView: View {
 
                 Spacer()
 
-                // Bottom bar with favorite and timer
+                // Bottom bar with favorite, share, and timer
                 HStack {
-                    FavoriteButton(isFavorite: quote.isFavorite, action: onFavoriteToggle)
+                    HStack(spacing: 12) {
+                        FavoriteButton(isFavorite: quote.isFavorite, action: onFavoriteToggle)
+                        ShareButton(text: quote.shareText)
+                    }
 
                     Spacer()
 
