@@ -1,6 +1,7 @@
 import SwiftUI
 import SwiftData
 
+@MainActor
 struct FavoritesView: View {
     @Environment(QuoteViewModel.self) private var viewModel
     @Environment(\.dismiss) private var dismiss

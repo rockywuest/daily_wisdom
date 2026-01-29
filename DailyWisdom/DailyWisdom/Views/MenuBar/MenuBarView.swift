@@ -1,6 +1,7 @@
 import SwiftUI
 import SwiftData
 
+@MainActor
 struct MenuBarView: View {
     @Environment(\.modelContext) private var modelContext
     @Environment(QuoteViewModel.self) private var viewModel
