@@ -185,3 +185,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with contemplation by [Rocky Wuest](https://github.com/rockywuest)
+
+---
+
+## Support
+
+If you find this useful, consider buying me a coffee ☕
+
+https://ko-fi.com/rockywuest
